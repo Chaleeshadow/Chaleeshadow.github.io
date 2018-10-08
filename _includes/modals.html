@@ -18,6 +18,9 @@
                             {% if post.description %}
                                 <p>{{ post.description }}</p>
                             {% endif %}
+                            {% if post.video %}
+                              <iframe width="560" height="315" src="https://www.youtube.com/embed/{{ post.video }}" frameborder="0" allowfullscreen></iframe>
+                            {% endif %}
                             <ul class="list-inline item-details">
                                 {% if post.client %}
                                     <li>Client:
@@ -25,9 +28,7 @@
                                         </strong>
                                     </li>
                                 {% endif %}
-                                {% if post.video %}
-                                    <iframe width="560" height="315" src="https://www.youtube.com/embed/{{ post.video }}" frameborder="0" allowfullscreen></iframe>
-                                {% endif %}
+
                                    
                                 {% if post.project-date %}
                                     <li>Date:
