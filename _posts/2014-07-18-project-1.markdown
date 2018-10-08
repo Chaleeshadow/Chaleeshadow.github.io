@@ -1,8 +1,8 @@
 ---
 layout: default
 modal-id: 1
-img: http://img.youtube.com/vi/VCKEekHg/0.jpg
-video: VCKEekHg
+img: http://img.youtube.com/vi/X6MBtD9CaYY/0.jpg
+video: X6MBtD9CaYY
 date: 2014-07-18
 alt: image-alt
 project-date: April 2014
