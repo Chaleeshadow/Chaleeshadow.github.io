@@ -2,7 +2,7 @@
 layout: default
 modal-id: 3
 date: 2014-07-16
-img: https://raw.githubusercontent.com/Chaleeshadow/Chaleeshadow.github.io/master/img/portfolio/circus.png
+img: http://img.youtube.com/vi/eAwLDjuJIA0/0.jpg
 alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
