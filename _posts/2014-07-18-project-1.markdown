@@ -1,7 +1,7 @@
 ---
 layout: default
 modal-id: 1
-img: cabin.png
+img: https://github.com/Chaleeshadow/Chaleeshadow.github.io/blob/master/img/portfolio/cabin.png
 video: eAwLDjuJIA0
 date: 2014-07-18
 alt: image-alt
